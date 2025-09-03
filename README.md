@@ -1,3 +1,3 @@
 # git-story-project
 Once upon a time, in a land full of bugs,
-The code goblins were somewhere.
+The code goblins were somewhere and also anywhere
