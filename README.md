@@ -1,2 +1,2 @@
 # git-story-project
-For ISP course
+Once upon a time, in a land full of bugs,
